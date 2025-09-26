@@ -8,21 +8,22 @@ const saltRounds = parseInt(process.env.BCRYPT_SALT_ROUNDS || "10", 10);
 
 // POST /api/auth/signup
 export const signup = async (req, res) => {
-	const { name, email, password } = req.body;
+	const { name, email, password, phoneNumber } = req.body;
 	// Prevent duplicate emails
-	const existing = await User.findOne({ email });
-	if (existing)
+	const existing =
+		(await User.findOne({ email })) || (await User.findOne({ phoneNumber }));
+	if (existing) {
 		return res.status(409).json({ message: "Email already registered" });
-
+	}
 	const hashed = await bcrypt.hash(password, saltRounds);
-	const user = new User({ name, email, password: hashed });
+	const user = new User({ name, email, password: hashed, phoneNumber });
 	await user.save();
 
 	const token = signJwt({ id: user._id, email: user.email });
 	res.status(201).json({
 		message: "User created",
 		token,
-		user: { id: user._id, email: user.email, name: user.name },
+		user: { id: user._id, email: user.email, name: user.name, phoneNumber: user.phoneNumber },
 	});
 };
 

@@ -12,10 +12,10 @@ const PORT = process.env.PORT || 3000;
 
 connectDB();
 
-app.use('/', authRoutes);
+app.use('/users', authRoutes);
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.urlencoded({extended:true}));
+app.use(express.json());
 
 // Central error handler
 app.use((err, req, res, next) => {

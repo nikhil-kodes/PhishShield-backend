@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "What is phishing primarily used for?",
+        "options": [
+            "To improve internet connection speed",
+            "To steal sensitive information like passwords",
+            "To install software updates",
+            "To send promotional emails"
+        ],
+        "answer": "To steal sensitive information like passwords",
+        "explanation": "Phishing is mainly used to trick people into revealing confidential data such as passwords, credit card numbers, and banking details."
+    },
+    {
+        "question": "Which of the following is a common phishing technique?",
+        "options": [
+            "Sending emails with suspicious links",
+            "Installing antivirus software",
+            "Using two-factor authentication",
+            "Clearing browser cache"
+        ],
+        "answer": "Sending emails with suspicious links",
+        "explanation": "Attackers often send emails containing malicious links that redirect users to fake websites designed to steal their credentials."
+    },
+    {
+        "question": "What is 'spear phishing'?",
+        "options": [
+            "Phishing that targets a specific individual or organization",
+            "Phishing sent randomly to millions of users",
+            "Phishing using phone calls only",
+            "A type of anti-phishing tool"
+        ],
+        "answer": "Phishing that targets a specific individual or organization",
+        "explanation": "Spear phishing is a targeted attack aimed at specific individuals or organizations, often using personalized details to appear legitimate."
+    },
+    {
+        "question": "What is 'smishing'?",
+        "options": [
+            "Phishing through SMS messages",
+            "Phishing using fake websites",
+            "Phishing with social media ads",
+            "Phishing through video conferencing"
+        ],
+        "answer": "Phishing through SMS messages",
+        "explanation": "Smishing involves sending fraudulent SMS messages that trick victims into clicking malicious links or sharing sensitive data."
+    },
+    {
+        "question": "What should you do if you suspect an email is a phishing attempt?",
+        "options": [
+            "Click the link to verify",
+            "Delete it immediately",
+            "Forward it to everyone",
+            "Respond with your details"
+        ],
+        "answer": "Delete it immediately",
+        "explanation": "Suspicious emails should be deleted without interacting with them to prevent falling victim to phishing attacks."
+    },
+    {
+        "question": "What is vishing? (Q6)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q7)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q8)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q9)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q10)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q11)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q12)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q13)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q14)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q15)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q16)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q17)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q18)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q19)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q20)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q21)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q22)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q23)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q24)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q25)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q26)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q27)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q28)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q29)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q30)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q31)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q32)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q33)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q34)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q35)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q36)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q37)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q38)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q39)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q40)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q41)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q42)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q43)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q44)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q45)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q46)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q47)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q48)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q49)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q50)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q51)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q52)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q53)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q54)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q55)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q56)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q57)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q58)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q59)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q60)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q61)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q62)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q63)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q64)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q65)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q66)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q67)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q68)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q69)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q70)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q71)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q72)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q73)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q74)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q75)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q76)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q77)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q78)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q79)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q80)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q81)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q82)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q83)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q84)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q85)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q86)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q87)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q88)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q89)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q90)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q91)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q92)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q93)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q94)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q95)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    },
+    {
+        "question": "What is vishing? (Q96)",
+        "options": [
+            "Phishing over phone calls",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Phishing over phone calls",
+        "explanation": "Attackers pretend to be legitimate entities over phone calls to steal information."
+    },
+    {
+        "question": "What is fake websites? (Q97)",
+        "options": [
+            "Creating websites that mimic legitimate services",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Creating websites that mimic legitimate services",
+        "explanation": "Attackers design websites that look real to trick users into entering credentials."
+    },
+    {
+        "question": "What is HTTPS check? (Q98)",
+        "options": [
+            "Always check for HTTPS in a website URL",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Always check for HTTPS in a website URL",
+        "explanation": "Legitimate websites use HTTPS to encrypt data, though not all HTTPS sites are safe."
+    },
+    {
+        "question": "What is unexpected attachments? (Q99)",
+        "options": [
+            "Avoid opening unexpected attachments",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Avoid opening unexpected attachments",
+        "explanation": "Phishing emails often contain malicious attachments that install malware."
+    },
+    {
+        "question": "What is browser warnings? (Q100)",
+        "options": [
+            "Respect browser security warnings",
+            "A harmless online activity",
+            "A type of encryption",
+            "An internet speed test"
+        ],
+        "answer": "Respect browser security warnings",
+        "explanation": "Modern browsers alert users about potentially dangerous websites."
+    }
+]

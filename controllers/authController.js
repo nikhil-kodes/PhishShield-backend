@@ -49,3 +49,31 @@ export const profile = async (req, res) => {
 	// req.user is attached by protect middleware
 	res.json({ user: req.user });
 };
+
+// PUT /users/profile
+export const updateProfile = async (req, res) => {
+  try {
+    const { name, email, phoneNumber } = req.body;
+
+    // Check if email or phone already exists for other users
+    const existing = await User.findOne({
+      $or: [{ email }, { phoneNumber }],
+      _id: { $ne: req.user._id },
+    });
+    if (existing) {
+      return res.status(409).json({ message: "Email or phone number already in use" });
+    }
+
+    // Update user fields
+    req.user.name = name || req.user.name;
+    req.user.email = email || req.user.email;
+    req.user.phoneNumber = phoneNumber || req.user.phoneNumber;
+
+    await req.user.save();
+    res.json({ message: "Profile updated", user: req.user });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to update profile" });
+  }
+};
+

@@ -10,6 +10,7 @@ import authRoutes from "./routes/auth.js";
 import quesRoutes from "./routes/questions.js";
 import dashboard from "./routes/dashboard.js";
 import urlProxyRouter from "./routes/urlProxy.js";
+import geminiRoutes from "./routes/gemini.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -24,6 +25,7 @@ app.use("/users", authRoutes);
 app.use("/quiz", quesRoutes);
 app.use("/dashboard", dashboard);
 app.use("/api", urlProxyRouter);
+app.use("/gemini", geminiRoutes);
 
 // Central error handler
 app.use((err, req, res, next) => {

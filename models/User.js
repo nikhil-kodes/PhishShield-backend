@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema(
 			{
 				url: String,
 				score: Number,
-				status: { type: String, enum: ["safe", "suspicious", "dangerous"] },
+				status: { type: String, enum: ["Safe", "Suspicious", "Dangerous"] },
 				visitedAt: { type: Date, default: Date.now },
 			},
 		],

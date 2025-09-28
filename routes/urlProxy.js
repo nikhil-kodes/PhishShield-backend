@@ -41,7 +41,7 @@ router.post("/scan-url", protect, async (req, res) => {
 		};
 
 		// If dangerous, increment linksBlocked
-		if (status === "dangerous") {
+		if (status && status.toLowerCase() === "dangerous") {
 			update.$inc.linksBlocked = 1;
 		}
 

@@ -27,6 +27,12 @@ app.use("/dashboard", dashboard);
 app.use("/api", urlProxyRouter);
 app.use("/gemini", geminiRoutes);
 
+app.get("/", (req, res) => {
+	res.json({
+		status: "started",
+	});
+});
+
 // Central error handler
 app.use((err, req, res, next) => {
 	console.error(err.stack);

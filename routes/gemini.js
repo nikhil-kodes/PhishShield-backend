@@ -1,8 +1,9 @@
-const express = require('express');
-const { processQuery } = require('../controllers/geminiController');
+import express from 'express';
+import { processQuery } from '../controllers/geminiController.js';
+
 const router = express.Router();
 
 // Route to process queries through Gemini API
 router.post('/query', processQuery);
 
-module.exports = router;
+export default router;

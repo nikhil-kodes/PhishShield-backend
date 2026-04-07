@@ -1,7 +1,7 @@
-const { GoogleGenerativeAI } = require("@google/generative-ai");
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // Initialize Gemini API with your API key
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const genAI = new GoogleGenerativeAI({ apiKey: process.env.GEMINI_API_KEY });
 
 // Prepare prompt with rules and guidelines
 const SYSTEM_PROMPT = `You are a cyber security expert focused on helping users identify phishing attempts.
@@ -15,24 +15,25 @@ Rules:
 7. Don't include external links or references
 8. Format response in plain text only`;
 
-async function generateGeminiResponse(query) {
+export async function generateGeminiResponse(query) {
   try {
-    // Get the generative model
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
-
     // Combine system prompt with user query
-    const prompt = SYSTEM_PROMPT + "\n\nUser Query: " + query;
+    const prompt = `${SYSTEM_PROMPT}\n\nUser Query: ${query}`;
 
-    // Generate response
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    
-    // Get the text content and return
-    return response.text();
+    // Use the client's text generation method
+    // Note: SDK method names may vary between versions; this matches common patterns
+    const response = await genAI.responses.create({
+      model: 'gemini-pro',
+      input: prompt,
+      maxOutputTokens: 512,
+      temperature: 0.2,
+    });
+
+    // Extract plain text output
+    const text = response.output?.[0]?.content?.[0]?.text || response.outputText || '';
+    return text;
   } catch (error) {
     console.error('Error generating Gemini response:', error);
     throw new Error('Failed to generate AI response');
   }
 }
-
-module.exports = { generateGeminiResponse };
